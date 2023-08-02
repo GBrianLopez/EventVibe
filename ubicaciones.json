@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "latitud": -24.820824438143642,
+        "longitud": -65.4197031778021,
+        "direccion": "C. Fernandes Molinas, A4400 Salta"
+    },
+    {
+        "id" : 2,
+        "latitud": -24.789135556001632,
+        "longitud": -65.41034827780335,
+        "direccion": "Caseros 500, Salta"
+    },
+    {
+        "id" : 3,
+        "latitud": -24.788816792129698,
+        "longitud": -65.40949706061443,
+        "direccion": "EFB, Zuviria 70, A4400 Salta"
+    },
+    {
+        "id" : 4,
+        "latitud": -34.54665606502065,
+        "longitud": -58.449501401655205,
+        "direccion": "Av. Pres. Figueroa Alcorta 7597, C1428 CABA"
+    },
+    {
+        "id" : 5,
+        "latitud": -24.775965583392516,
+        "longitud": -65.42325731422136,
+        "direccion": "Ibazeta 1550, A4400 Salta"
+    },
+    {
+        "id" : 6,
+        "latitud": -34.635416667559724,
+        "longitud": -58.364820677324545,
+        "direccion": "Brandsen 805, C1161 CABA"
+    },
+    {
+        "id" : 7,
+        "latitud": -24.786761948164177,
+        "longitud": -65.41269118944984,
+        "direccion": "Salta"
+    }
+]

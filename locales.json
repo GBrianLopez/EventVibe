@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Duki Tour 3",
+        "imagen": "image_1.png",
+        "id_ubicacion": 1
+    },
+    {
+        "nombre": "Festival de Jazz",
+        "imagen": "image_2.png",
+        "id_ubicacion": 2
+    },
+    {
+        "nombre": "Rata Blanca Show 3",
+        "imagen": "image_3.png",
+        "id_ubicacion": 3
+    },
+    {
+        "nombre": "Kurt Cobain Returns",
+        "imagen": "image_4.png",
+        "id_ubicacion": 4
+    },
+    {
+        "nombre": "Thiago PZK Tour 4",
+        "imagen": "image_5.png",
+        "id_ubicacion": 5
+    },
+    {
+        "nombre": "Tini Show en vivo",
+        "imagen": "image_6.png",
+        "id_ubicacion": 6
+    },
+    {
+        "nombre": "Batalla de los Djs",
+        "imagen": "image_7.png",
+        "id_ubicacion": 7
+    }
+]

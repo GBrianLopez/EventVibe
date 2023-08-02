@@ -1,0 +1,143 @@
+{
+    "usuarios": {
+        "brian": {
+            "contrasena": "123",
+            "eventos": [
+                {
+                    "comentario": "El mejor concierto. Aguante el duko",
+                    "animacion": true,
+                    "calificacion": 4,
+                    "nombre_evento": "Duki - Tour",
+                    "artista": "Duki",
+                    "genero": "Trap",
+                    "ubicacion": "Salta - Estadio Martearena",
+                    "experiencia": {
+                        "texto": "Buen concierto y buenos precios, el duko casi se muereee",
+                        "spoiler": false
+                    }
+                },
+                {
+                    "comentario": "Valio totalmente la pena ver a Thiagoo",
+                    "animacion": false,
+                    "calificacion": 5,
+                    "nombre_evento": "Thiago PZK - Tour",
+                    "artista": "Thiago",
+                    "genero": "Trap",
+                    "ubicacion": "Salta - Estadio Delmi",
+                    "experiencia": {
+                        "texto": "Un genio, la mejor experiencia",
+                        "spoiler": false
+                    }
+                }
+            ]
+        },
+        "eduardo": {
+            "contrasena": "123",
+            "eventos": []
+        },
+        "mariana": {
+            "contrasena": "123",
+            "eventos": [
+                {
+                    "comentario": "Buen lugar para despejarse con buena musica",
+                    "animacion": true,
+                    "calificacion": 4,
+                    "nombre_evento": "Rata Blanca - Show 3",
+                    "artista": "Rata Blanca",
+                    "genero": "Rock",
+                    "ubicacion": "Salta - Teatro Provincial",
+                    "experiencia": {
+                        "texto": "Dieron un adelanto de su nuevo tema",
+                        "spoiler": false
+                    }
+                },
+                {
+                    "comentario": "No vale la pena, ni se gasten en ir",
+                    "animacion": true,
+                    "calificacion": 1,
+                    "nombre_evento": "Kurt Cobain Returns",
+                    "artista": "Kurt Cobain",
+                    "genero": "Rock",
+                    "ubicacion": "Estadio Monumental - Buenos Aires",
+                    "experiencia": {
+                        "texto": "Horrible, nunca se presento",
+                        "spoiler": false
+                    }
+                }
+            ]
+        },
+        "cande": {
+            "contrasena": "123",
+            "eventos": [
+                {
+                    "comentario": "Evento interesante",
+                    "animacion": true,
+                    "calificacion": 3,
+                    "nombre_evento": "Festival de Jazz",
+                    "artista": "Artista Desconocido",
+                    "genero": "Jazz",
+                    "ubicacion": "Salta - Plaza Belgrano",
+                    "experiencia": {
+                        "texto": "Un evento distinto pero entretenido",
+                        "spoiler": true
+                    }
+                }
+            ]
+        },
+        "gabriel": {
+            "contrasena": "123",
+            "eventos": [
+                {
+                    "comentario": "Buen ambiente",
+                    "animacion": true,
+                    "calificacion": 4,
+                    "nombre_evento": "Batalla de DJs",
+                    "artista": "Varios Artistas",
+                    "genero": "Electronica",
+                    "ubicacion": "Salta - Plaza 9 de julio",
+                    "experiencia": {
+                        "texto": "Ya no se que poner aqui, pero estuvo bueno, vayan",
+                        "spoiler": false
+                    }
+                },
+                {
+                    "comentario": "Excelente musica y ambientacion",
+                    "animacion": true,
+                    "calificacion": 5,
+                    "nombre_evento": "Festival de Folk",
+                    "artista": "Varios Artistas",
+                    "genero": "Folklore",
+                    "ubicacion": "Salta - Centro Vecinal Castañares",
+                    "experiencia": {
+                        "texto": "Estuvo el chaqueño palavecino, buenisimo",
+                        "spoiler": true
+                    }
+                },
+                {
+                    "comentario": "Dejo mucho que desear, pero me conformo",
+                    "animacion": true,
+                    "calificacion": 3,
+                    "nombre_evento": "Tini Live Show",
+                    "artista": "Tini",
+                    "genero": "Pop",
+                    "ubicacion": "Buenos aires - Bombonera",
+                    "experiencia": {
+                        "texto": "Buenas personas, un publico juvenil y alegre",
+                        "spoiler": false
+                    }
+                }
+            ]
+        },
+        "brian2": {
+            "contrasena": "123",
+            "eventos": [
+                {
+                    "artista": "Duki",
+                    "genero": "Trap",
+                    "ubicacion": "Salta - Estadio Martearena",
+                    "fecha": "2023-09-23"
+                }
+            ]
+        }
+    }
+}
